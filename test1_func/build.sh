@@ -27,7 +27,7 @@ case $1 in
     ;;
      "clean")
      echo "fdsafs"
-     rm -rf CMakeF* CMakeC* 
+     rm -rf CMakeF* CMakeC* cmake*  Makefile 
      echo "clean all files......."
      ;;
 esac
